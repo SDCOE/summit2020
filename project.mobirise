@@ -175,7 +175,7 @@
           },
           "title": "LEARNING and INNOVATION SUMMIT<br>Featuring Design Thinking",
           "text": "February 8, 2020 | 8:00am - 4:00pm<br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -189,7 +189,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#d6ab24",
+            "columnsColor": "#005488",
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "3",
@@ -269,10 +269,10 @@
           "caption1": "Join others interested in igniting innovation and learning for all students.<br><br><b>Innovation in Education<br></b><br>Rapid Prototyping<br>Design Thinking for Littles<br>Practices for Building Empathy<br>Virtual Collaboration<br>Design Challenges<br>Visualized Thinking<br>",
           "title2": "Design Thinking &amp; Technology Integrations",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "The SDCOE Learning and Innovation Summit features Design Thinking along with other curricular best practices and technology integrations through topics like rapid prototyping, design thinking for littles, building empathy, virtual collaboration, design challenges, and visualized thinking. Come learn about design thinking and ways to strengthen learning through engagement, enrichment, and extended learning experiences. This conference offers something for everyone from novice teachers to seasoned professionals.",
+          "caption2": "The SDCOE Learning and Innovation Summit features Design Thinking along with other curricular best practices and technology integrations through topics like rapid prototyping, design thinking for littles, building empathy, virtual collaboration, design challenges, and visualized thinking. <br><br>Come learn about Design Thinking and ways to strengthen learning through engagement, enrichment, and extended learning experiences. This conference offers something for everyone from novice teachers to seasoned professionals.",
           "title3": "KEYNOTE SPEAKER<br>Laura K. Spencer&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>Extraordinary By Design</b>",
+          "caption3": "Dr. Laura Spencer is a leading educator in the area of innovative leadership, teaching, and learning. She has served as a classroom teacher, an edtech director, and most recently as a district administrator who led transformational classroom change through design thinking and industry connections so that all students have learning experiences that value their unique strengths and passions. <br> <br>Laura speaks across the United States at various conferences to teachers, administrators, and industry on topics ranging from effective leadership, sustainable edtech integration, and building an innovative culture for transformational learning. She is known for her engaging hands-on design thinking workshops and professional development as well. <br><br>Laura has been recognized as an Innovative Educator, Administrator of the Year, and San Diego County’s Top Tech Exec, as well as recently winning a CUE Gold Disk and the Classroom of the Future Innovate Award. She’s been featured on The YouSchool and Innovative Pedagogy podcasts. She’s also the President of SDCUE and a founding board member of EquityEDU. She is a proud US Army veteran.<br><br>Laura blogs at <a href=\"http://laurakspencer.com\" target=\"_blank\">laurakspencer.com</a><br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -295,7 +295,7 @@
           "_anchor": "features1-j",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#d6ab24"
+              "background-color": "#005488"
             }
           }
         },
@@ -403,7 +403,7 @@
             },
             "paddingTop": 4,
             "paddingBottom": 4,
-            "bgColor": "#d6ab24"
+            "bgColor": "#005488"
           },
           "_tags": [
             "Theme"
