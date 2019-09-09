@@ -39,7 +39,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 32,
+    "uniqCompNum": 31,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -173,7 +173,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.9"
           },
-          "title": "LEARNING and INNOVATION SUMMIT<br>Featuring Design Thinking",
+          "title": "LEARNING and INNOVATION SUMMIT<br><br>",
           "text": "Feb. 8, 2020 | 8:00 a.m. to 4:00 p.m.<br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
@@ -213,8 +213,9 @@
               "name": "megaphone",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScCVSQsTo8EN4E0zxQ7BBb4EZT8lfOQKR-Hvk2CiuQb3ObkPw/viewform?usp=sf_link",
+              "size": 0,
+              "newWindow": true
             }
           },
           "media2": {
@@ -292,7 +293,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALL FOR PRESENTERS<br>(Deadline Nov. 1, 11:59 p.m.)<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScCVSQsTo8EN4E0zxQ7BBb4EZT8lfOQKR-Hvk2CiuQb3ObkPw/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CALL FOR PRESENTERS<br>(Deadline Nov. 1, 11:59 p.m.)<br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT REGISTRATION<br>(Information Section Below)<br></a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://summit2020.innovatesd.org\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT SCHEDULE <br>(Comming Soon)</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -385,7 +386,7 @@
           },
           "title1": "Join Us!",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Join others interested in igniting innovation and learning for all students.<br><br><b>Innovation in Education<br></b><br>Rapid Prototyping<br>Design Thinking for Littles<br>Practices for Building Empathy<br>Virtual Collaboration<br>Design Challenges<br>Visualized Thinking<br>",
+          "caption1": "Join others interested in igniting innovation and learning for all students.<br><br><b>Innovation in Education<br></b><br>Rapid Prototyping<br>Design Thinking for Littles<br>Practices for Building Empathy<br>Virtual Collaboration<br>Design Challenges<br>Visualized Thinking<br>Augmented &amp; Virtual Reality<br>Growth Mindset<br>Digital Literacy<br><br>",
           "title2": "Design Thinking &amp; Technology Integrations",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "The SDCOE Learning and Innovation Summit features Design Thinking along with other curricular best practices and technology integrations through topics like rapid prototyping, design thinking for littles, building empathy, virtual collaboration, design challenges, and visualized thinking. <br><br>Come learn about Design Thinking and ways to strengthen learning through engagement, enrichment, and extended learning experiences. This conference offers something for everyone from novice teachers to seasoned professionals.",
@@ -424,7 +425,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>REGISTRATION INFORMATION:&nbsp;</b></p><p>(fee includes a light breakfast and lunch)</p><p><br></p><div><b>Early Bird</b>--Single Registration $75 (ends Dec. 1, 2019)</div><div><b>General</b>--Single Registration $90 (after Dec. 1, 2019)</div><div><b>Group Rate</b>--$60 per registrant for 10 or more registrations under a single purchaser.&nbsp;</div><div><br></div><div><b>REGISTRATION POLICIES:</b></div><div><b><br>Deadline for Purchase Orders or Travel Authorizations&nbsp;</b><span style=\"font-size: 1.07rem;\"><b>Jan. 15 </b></span></div><div><span style=\"font-size: 1.07rem;\">Please contact <a href=\"mailto:mgonzalez@sdcoe.net\">mgonzalez@sdcoe.net</a> to negotiate after the deadline.&nbsp;</span></div><div><b>Cancelation Deadline&nbsp;Jan. 24, 2020</b></div><div>No refunds or fee waivers will be given after Jan. 24, 2020. Substitutions will be accepted. All registration fees, paid or anticipated, for active registrations after Jan. 24, 2019, will be due regardless of attendance at the event (including illness).</div><div><b>Registration Deadline Jan. 31, 2020</b></div><div>No refunds or fee waivers will be given. Substitutions will be accepted. All registration fees will be due regardless of attendance at the event (including illness).</div><div><br></div><div><b>PURCHASER INFORMATION:</b></div><div>If someone other than the attendee is responsible for payment the buyer will be asked to complete a registration form for each attendee. On the first registration, please include school, school district, and contact information. If registering multiple people, the buyer need only list their first and last name on subsequent registrations. The buyer will need the following information from each attendee: First/Last Name, Email, Dietary Considerations (none/vegetarian/gluten-free).&nbsp;</div><p></p>",
+          "text": "<p><b>REGISTRATION INFORMATION:&nbsp;</b></p><p>(fee includes a light breakfast and lunch)</p><p><br></p><div><b>Early Bird</b>--Single Registration $75 (ends Dec. 1, 2019)</div><div><b>General</b>--Single Registration $90 (after Dec. 1, 2019)</div><div><b>Group Rate</b>--$60 per registrant for 10 or more registrations under a single purchaser.&nbsp;</div><div><br></div><div><b>REGISTRATION POLICIES:</b></div><div><b><br></b></div><div><b>Cancelation Deadline&nbsp;Jan. 24, 2020</b></div><div>No refunds or fee waivers will be given after Jan. 24, 2020. Substitutions will be accepted. All registration fees, paid or anticipated, for active registrations after Jan. 24, 2019, will be due regardless of attendance at the event (including illness).</div><div><b>Registration Deadline Jan. 15, 2020</b></div><div>No refunds or fee waivers will be given. Substitutions will be accepted. All registration fees will be due regardless of attendance at the event (including illness).</div><div><br></div><div><b>PURCHASER INFORMATION:</b></div><div>If someone other than the attendee is responsible for payment the buyer will be asked to complete a registration form for each attendee. On the first registration, please include school, school district, and contact information. If registering multiple people, the buyer need only list their first and last name on subsequent registrations. The buyer will need the following information from each attendee: First/Last Name, Email, Dietary Considerations (none/vegetarian/gluten-free).&nbsp;</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -445,7 +446,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b style=\"font-size: 1.07rem;\">PAYMENT OPTIONS:<br></b><br></p><div><b>Personal Check:</b></div><div>Make payment to the San Diego Superintendent of Schools c/o Marco Gonzalez due by Jan. 31, 2020.</div><div>Please mail payment to: 6401 Linda Vista Road, Rm. 412, San Diego, CA 92111 Attn: Marco Gonzalez.&nbsp;</div><div><br></div><div><b>District Purchase Order (PO) or Travel Authorization (TA):</b></div><div>The person filling out this form will receive an email receipt with responses selected. This receipt acts as registration confirmation for each attendee and can be used for requesting PO's or TA's. Invoices will be batch mailed on Nov. 15, Dec. 15, and Jan. 15 as registrations are received. </div><div><br></div><div>The deadline for PO and TA submission is Jan. 15. Please email your PO or TA numbers to <a href=\"mailto:mgonzalez@sdcoe.net\">mgonzalez@sdcoe.net</a> within ten business days of your registration. Extensions for PO's and TA's can be negotiated after the Jan. 15 deadline by emailing requests to <a href=\"mailto:mgonzalez@sdcoe.net\">mgonzalez@sdcoe.net</a>. registration and cancelation deadlines outlined above apply.&nbsp;</div><div>&nbsp;</div><div><b>Main Presenters:</b></div><div>The person who submitted a session application is considered the Main Presenter. A confirmation email will be sent to applicants around Nov. 8, informing them of selection. Registration is free for the one Main Presenter of a session only. Main Presenters should not be included in group pricing rates.&nbsp;</div><div><br></div><div><b>Payment Policy:</b></div><div>All registrations will remain pending until payment has been received. Payment must be made in full prior to the start of the event or attendees may lose their spot to a person on the waitlist. (Some exceptions for PO's and TA's will apply) No refunds or fee waivers will be given after Jan. 24. Substitutions will be accepted. </div><div><br></div><div><b>All registration fees for active registrations after Jan. 24, will be due regardless of attendance at the event. By continuing to register, you agree to these conditions.</b></div><div><br></div><p></p>",
+          "text": "<p><b style=\"font-size: 1.07rem;\">PAYMENT OPTIONS:<br></b><br></p><div><b>Personal Check:</b></div><div>Make payment to the San Diego Superintendent of Schools c/o Marco Gonzalez due by Jan. 31, 2020.</div><div>Please mail payment to: 6401 Linda Vista Road, Rm. 412, San Diego, CA 92111 Attn: Marco Gonzalez.&nbsp;</div><div><br></div><div><b>District Purchase Order (PO) or Travel Authorization (TA):</b></div><div>The person filling out this form will receive an email receipt with responses selected. This receipt acts as registration confirmation for each attendee and can be used for requesting PO's or TA's.&nbsp;</div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\">Please email your PO or TA numbers to </span><a href=\"mailto:mgonzalez@sdcoe.net\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">mgonzalez@sdcoe.net</a><span style=\"font-size: 1.07rem;\"> within ten business days of your registration. R</span><span style=\"font-size: 1.07rem;\">egistration and cancelation deadlines outlined above apply.&nbsp;</span><br></div><div>&nbsp;</div><div><b>Main Presenters:</b></div><div>The person who submitted a session application is considered the Main Presenter. A confirmation email will be sent to applicants around Nov. 8, informing them of selection. Registration is free for the one Main Presenter of a session only. Main Presenters should not be included in group pricing rates.&nbsp;</div><div><br></div><div><b>Payment Policy:</b></div><div>By registering your are confirming payment. No refunds or fee waivers will be given after Jan. 24. Substitutions will be accepted. </div><div><br></div><div><b>All registration fees for active registrations after Jan. 24, will be due regardless of attendance at the event. By continuing to register, you agree to these conditions.</b></div><div><br></div><p></p>",
           "_tags": [
             "Theme"
           ],
