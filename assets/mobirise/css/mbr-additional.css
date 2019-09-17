@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -476,6 +479,21 @@ h6,
 }
 #header5-5 .mbr-section-lead {
   color: #9c9a9a;
+}
+#msg-box5-v H3 {
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color: #005488;
+}
+#msg-box5-v SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+#msg-box5-v P {
+  text-align: right;
+  color: #005488;
+  font-size: 24px;
 }
 #features1-j .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #005488;
