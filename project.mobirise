@@ -214,7 +214,7 @@
               "name": "megaphone",
               "family": "et-line",
               "active": true,
-              "link": "https://docs.google.com/forms/d/e/1FAIpQLScCVSQsTo8EN4E0zxQ7BBb4EZT8lfOQKR-Hvk2CiuQb3ObkPw/viewform?usp=sf_link",
+              "link": "index.html#header5-5",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -297,7 +297,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRESENTER APPLICATIONS<br>(Now Closed)<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#features6-v\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRESENTER APPLICATIONS<br>(Now Closed)<br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT REGISTRATION<br>(Information Section Below)<br></a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://summit2020.innovatesd.org\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT SCHEDULE <br>(Comming Soon)</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
