@@ -214,7 +214,7 @@
               "name": "megaphone",
               "family": "et-line",
               "active": true,
-              "link": "index.html#header5-5",
+              "link": "index.html#features6-v",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -240,7 +240,7 @@
               "name": "bulleted-list",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "http://summit2020.innovatesd.org",
+              "link": "index.html#features6-v",
               "size": 0,
               "newWindow": false,
               "color": "#ffffff"
@@ -299,7 +299,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#features6-v\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRESENTER APPLICATIONS<br>(Now Closed)<br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT REGISTRATION<br>(Information Section Below)<br></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://summit2020.innovatesd.org\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT SCHEDULE <br>(Comming Soon)</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#features6-v\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT SCHEDULE <br>(Comming Soon)</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
