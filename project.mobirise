@@ -40,7 +40,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -548,11 +548,82 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "35",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x427.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mesi-michanne-1400x1050.jpg",
+              "link": "",
+              "alt": "Michanne Hoctor Thompson presents at MESI",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><span style=\"font-weight: normal;\">\"Outstanding presenters! The Learning and Innovation Summit ignited my innovator's mindset. Great opportunity to network with other educators, get your Google, and grow as an innovator.\"&nbsp;</span></div>",
+          "text": "-Roxanne Pompilio, teacher",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#005488"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#005488",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-w"
+        },
+        {
+          "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>REGISTRATION INFORMATION:&nbsp;</b></p><p>(fee includes a light breakfast and lunch)</p><p><br></p><div><b>Early Bird</b>--Single Registration $75 (ends Dec. 1, 2019)</div><div><b>General</b>--Single Registration $90 (after Dec. 1, 2019)</div><div><b>Group Rate</b>--$60 per registrant for 10 or more registrations under a single purchaser/buyer.&nbsp;</div><div><br></div><div><b>REGISTRATION POLICIES:</b></div><div><b><br></b></div><div><b>Cancelation Deadline&nbsp;Jan. 24, 2020</b></div><div>No refunds or fee waivers will be given after Jan. 24, 2020. Substitutions will be accepted. All registration fees, paid or anticipated, for active registrations after Jan. 24, 2019, will be due regardless of attendance at the event (including illness).</div><div><br></div><div><b>Registration Deadline Jan. 15, 2020</b></div><div>No refunds or fee waivers will be given. Substitutions will be accepted. All registration fees will be due regardless of attendance at the event (including illness).</div><div><br></div><div><b>PURCHASER/BUYER INFORMATION:</b></div><div>If someone other than the attendee is responsible for payment the purchaser/buyer will be asked to complete a registration form for each attendee. The purchaser/buyer will need the following information from each attendee: First/Last Name, Email, Dietary Considerations (none/vegetarian/gluten-free).&nbsp;</div><p></p>",
+          "text": "<p><b>REGISTRATION INFORMATION:&nbsp;</b></p><p>(fee includes a light breakfast and lunch)</p><p><br></p><div><br></div><div><b>General</b>--Single Registration $50</div><div><b>Group Rate</b>--$40 per registrant for 10 or more registrations under a single purchaser/buyer.&nbsp;</div><div><br></div><div><b>REGISTRATION POLICIES:</b></div><div><b><br></b></div><div><b>Cancelation Deadline&nbsp;Jan. 24, 2020</b></div><div>No refunds or fee waivers will be given after Jan. 24, 2020. Substitutions will be accepted. All registration fees, paid or anticipated, for active registrations after Jan. 24, 2019, will be due regardless of attendance at the event (including illness).</div><div><br></div><div><b>Registration Deadline Jan. 15, 2020</b></div><div>No refunds or fee waivers will be given. Substitutions will be accepted. All registration fees will be due regardless of attendance at the event (including illness).</div><div><br></div><div><b>PURCHASER/BUYER INFORMATION:</b></div><div>If someone other than the attendee is responsible for payment the purchaser/buyer will be asked to complete a registration form for each attendee. The purchaser/buyer will need the following information from each attendee: First/Last Name, Email, Dietary Considerations (none/vegetarian/gluten-free).&nbsp;</div><p></p>",
           "_tags": [
             "Theme"
           ],
