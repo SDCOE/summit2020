@@ -413,9 +413,10 @@
               "name": "hot-cup",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#header3-y",
               "size": 0,
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "media2": {
@@ -425,8 +426,9 @@
               "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#header3-y",
+              "size": 0,
+              "newWindow": false
             }
           },
           "media3": {
@@ -436,8 +438,9 @@
               "name": "key",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#header3-y",
+              "size": 0,
+              "newWindow": false
             }
           },
           "media4": {
@@ -447,8 +450,9 @@
               "name": "features",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#header3-y",
+              "size": 0,
+              "newWindow": false
             }
           },
           "media5": {
@@ -458,8 +462,9 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#header3-y",
+              "size": 0,
+              "newWindow": false
             }
           },
           "media6": {
@@ -469,8 +474,9 @@
               "name": "features",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#header3-y",
+              "size": 0,
+              "newWindow": false
             }
           },
           "_tags": [
