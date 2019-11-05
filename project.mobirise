@@ -40,7 +40,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 33,
+    "uniqCompNum": 35,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -60,13 +60,13 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": "0.8",
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#00aeef",
             "fontHoverColor": "@primaryColor"
@@ -93,22 +93,22 @@
               "color": "#00aeef"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#00aeef",
@@ -360,6 +360,159 @@
           "_anchor": "msg-box5-v"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#005488"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Agenda",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": ""
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "key",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "7:30 - 8:00",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Registration Opens<br>Enjoy Coffee &amp; Lite Breakfast Pastries&nbsp;",
+          "title2": "8:00-8:15",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Welcome from SDCOE Educational Technology Director, Alicia Gallegos Butters, Ed.D.",
+          "title3": "8:15-9:00",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Keynote Speaker<br>Dr. Laura Spencer",
+          "title4": "Breakouts",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Session 1<br>9:10-10:00<br><br>Session 2<br>10:10-11:00<br><br>Session 3<br>11:10-12:00<br><br>",
+          "title5": "Lunch",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "12:20-1:00<br>Enjoy a catered lunch by Lemonade",
+          "title6": "Breakouts",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Session 4<br>1:00-1:50<br><br>Session 5<br>2:00-2:50",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-x",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#005488"
+            },
+            "H4": {
+              "color": "#005488"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -368,10 +521,10 @@
             "imageSize": "35",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x427.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -709,7 +862,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-q"
+          "_anchor": "msg-box5-q",
+          "_styles": {
+            "P": {
+              "color": "#005488"
+            },
+            "H3": {
+              "color": "#005488"
+            }
+          }
         },
         {
           "_params": {
@@ -733,14 +894,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x427.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
           },
           "text": "Webmaster:: <a href=\"mailto:pamela.rabin@sdcoe.net\" class=\"text-info\">pamela.rabin@sdcoe.net</a><br><br>The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at <a href=\"http://www.sdcoe.net/nondiscrimination\" target=\"_blank\">www.sdcoe.net/nondiscrimination.</a>",
           "_tags": [
@@ -751,7 +912,7 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#acacac"
+              "color": "#005488"
             }
           }
         }
