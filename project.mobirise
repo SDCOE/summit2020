@@ -787,7 +787,7 @@
             "paddingBottom": "0",
             "columns": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x4270.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x4271.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
