@@ -43,9 +43,7 @@
     "uniqCompNum": 38,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/summit2020"
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -789,7 +787,7 @@
             "paddingBottom": "0",
             "columns": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@assets/images/design%20thinking-592x427.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x4270.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -814,7 +812,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/thank%20you-600x578.png",
+              "src": "@PROJECT_PATH@/assets/images/thank-you-600x578.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -836,7 +834,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x120.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x120.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
