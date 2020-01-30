@@ -557,20 +557,31 @@ section.form .container {
 #features1-j .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #005488;
 }
-#msg-box5-w H3 {
+#msg-box5-12 H3 {
   font-size: 25px;
   text-align: center;
   font-family: 'Lato', sans-serif;
   color: #005488;
 }
-#msg-box5-w SPAN {
+#msg-box5-12 SPAN {
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
 }
-#msg-box5-w P {
+#msg-box5-12 P {
   text-align: right;
   color: #005488;
   font-size: 24px;
+}
+#msg-box7-19 h3,
+#msg-box7-19 p {
+  color: #fff;
+}
+#msg-box7-19 H3 {
+  color: #005488;
+  font-size: 30px;
+}
+#msg-box7-19 P {
+  color: #005488;
 }
 #content1-u P {
   text-align: left;
