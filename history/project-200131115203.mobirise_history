@@ -43,7 +43,9 @@
     "uniqCompNum": 46,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/summit2020"
   },
   "pages": {
     "index.html": {
@@ -297,9 +299,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://flipgrid.com/b7898768\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTER SESSION SLAMS from 2020<br>(Flipgrid Descriptions)<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://flipgrid.com/b7898768\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTER SESSION SLAMS<br>(Flipgrid Descriptions)<br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION DEADLINE PASSED<br>Contact pamela.rabin@sdcoe.net about limited availability.<br>(Information Section Below)<br></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://learninginnovationsummit2020.sched.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT SCHEDULE 2020<br>(Live on sched.com)<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://learninginnovationsummit2020.sched.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT SCHEDULE<br>(Live on sched.com)<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -716,7 +718,7 @@
             "paddingBottom": "0",
             "columns": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x4270.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/design%20thinking-592x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -741,7 +743,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/thank-you-600x578.png",
+              "src": "@PROJECT_PATH@/assets/images/thank%20you-600x578.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -763,7 +765,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x120.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x120.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -931,7 +933,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pce-blue-horiz-265x65.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pce_blue_horiz-265x65.jpg",
               "link": "",
               "alt": "USD Professional & Continuing Education Logo",
               "title": "",

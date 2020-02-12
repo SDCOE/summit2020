@@ -43,7 +43,9 @@
     "uniqCompNum": 46,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/summit2020"
   },
   "pages": {
     "index.html": {
@@ -175,7 +177,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "LEARNING and INNOVATION SUMMIT<br><br>",
-          "text": "Feb. 8, 2020 | 8:00 a.m. to 3:00 p.m.<br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
+          "text": "Feb. 6, 2021 | 8:00 a.m. to 3:00 p.m.<br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
@@ -350,7 +352,7 @@
               "size": 0
             }
           },
-          "title": "KEYNOTE SPEAKER<div>Laura K. Spencer&nbsp;</div>",
+          "title": "KEYNOTE SPEAKER (From Feb. 2020)<div>Laura K. Spencer&nbsp;</div>",
           "text": "Dr. Laura Spencer is a leading educator in the area of innovative leadership, teaching, and learning. She has served as a classroom teacher, an edtech director, and most recently as a district administrator who led transformational classroom change through design thinking and industry connections so that all students have learning experiences that value their unique strengths and passions.<br><br>Laura has been recognized as an Innovative Educator, Administrator of the Year, and San Diego County’s Top Tech Exec, as well as recently winning a CUE Gold Disk and the Classroom of the Future Innovate Award. She’s been featured on The YouSchool and Innovative Pedagogy podcasts. She’s also the President of SDCUE and a founding board member of EquityEDU. She is a proud US Army veteran.<br><br>Laura blogs at<a href=\"http://laurakspencer.com\" target=\"_blank\"> laurakspencer.com</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -716,7 +718,7 @@
             "paddingBottom": "0",
             "columns": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x4270.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/design%20thinking-592x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -741,7 +743,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/thank-you-600x578.png",
+              "src": "@PROJECT_PATH@/assets/images/thank%20you-600x578.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -763,7 +765,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x120.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x120.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -931,7 +933,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pce-blue-horiz-265x65.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pce_blue_horiz-265x65.jpg",
               "link": "",
               "alt": "USD Professional & Continuing Education Logo",
               "title": "",
