@@ -43,13 +43,15 @@
     "uniqCompNum": 46,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/summit2020"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Learning & Innovation Summit 2020",
+        "title": "Learning & Innovation Summit - Featuring Design Thinking | SDCOE | #innovatesd",
         "meta_descr": "LEARNING & INNOVATION SUMMIT\nFeb 8, 2020 | 8:00am - 4:00pm\nSDCOE Main Campus\n6401 Linda Vista Road, 92111",
         "header_custom": "",
         "footer_custom": "",
@@ -716,7 +718,7 @@
             "paddingBottom": "0",
             "columns": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/design-thinking-592x4270.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/design%20thinking-592x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -741,7 +743,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/thank-you-600x578.png",
+              "src": "@PROJECT_PATH@/assets/images/thank%20you-600x578.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -763,7 +765,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x120.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x120.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -931,7 +933,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pce-blue-horiz-265x65.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pce_blue_horiz-265x65.jpg",
               "link": "",
               "alt": "USD Professional & Continuing Education Logo",
               "title": "",
