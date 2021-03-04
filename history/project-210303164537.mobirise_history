@@ -48,8 +48,7 @@
     "uniqCompNum": 46,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on",
-    "imageResize": true
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -178,7 +177,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.9"
           },
           "title": "LEARNING and INNOVATION SUMMIT<br><br>",
           "text": "Feb. 8, 2020 | 8:00 a.m. to 3:00 p.m.<br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
